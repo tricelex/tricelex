@@ -18,4 +18,11 @@ I am more of a back-end dev, still brushing up my designs skills. I love to keep
 -----
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   3 hrs 33 mins   ████████████████████░░░░░   81.97 % 
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+CSS          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+```
 <!--END_SECTION:waka-->
