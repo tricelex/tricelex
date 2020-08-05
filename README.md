@@ -19,10 +19,10 @@ I am more of a back-end dev, still brushing up my designs skills. I love to keep
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   31.06 % 
-Python       5 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Markdown     1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-TypeScript   1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JSON         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Python       9 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   34.40 % 
+JavaScript   5 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Other        2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Markdown     1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+TypeScript   1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 <!--END_SECTION:waka-->
