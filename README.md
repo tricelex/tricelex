@@ -1,11 +1,10 @@
 # Hey, I'm Chuckz Okoye 👑
 
-<img src="https://raw.githubusercontent.com/tricelex/tricelex/master/tricelex.png" alt="banner that says Chuckz Okoye alongside a picture of Chuckz">
 
 I'm a passionate software developer, I create websites and web apps using scalable tech. Some technologies I enjoy working with include Javascript, Python, Django and PHP.
 
-I am more of a back-end dev, still brushing up my designs skills. I love to keep updated with new and emerging technology, currently looking at the Blockchain and Cryptocurrency ecosystem.
-
+Back-end development is more of my thing, still brushing up my designs skills. I'm usually enthusiastic about learning new tech and figuring how things work, currently looking at the Blockchain and Cryptocurrency ecosystem.
+I am currently on the lookout for opportunities for growth as a person and software developer.
 -----
 
 ## Find me around the web 🌎:
@@ -14,6 +13,13 @@ I am more of a back-end dev, still brushing up my designs skills. I love to keep
 	<a href="https://twitter.com/chuckzokoye"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/chuckzokoye?style=social"></a>
 	<a href="https://www.linkedin.com/in/chuckzokoye"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
+-----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tricelex)](https://github.com/anuraghazra/github-readme-stats)   [![Chuckz's github stats](https://github-readme-stats.vercel.app/api?username=tricelex&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 -----
 
