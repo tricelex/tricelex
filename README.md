@@ -3,8 +3,9 @@
 
 I'm a passionate software developer, I create websites and web apps using scalable tech. Some technologies I enjoy working with include Javascript, Python, Django and PHP.
 
-Back-end development is more of my thing, still brushing up my designs skills. I'm usually enthusiastic about learning new tech and figuring how things work, currently looking at the Blockchain and Cryptocurrency ecosystem.
+Back-end development is more of my thing, still brushing up my designs skills. I'm usually enthusiastic about learning new tech and figuring how things work, currently looking at the Blockchain and Cryptocurrency.
 I am currently on the lookout for opportunities for growth as a person and software developer.
+
 -----
 
 ## Find me around the web 🌎:
