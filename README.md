@@ -28,8 +28,8 @@ I am currently on the lookout for opportunities for growth as a person and softw
 ```text
 Python   10 hrs 51 mins  ████████████████░░░░░░░░░   63.75 % 
 Docker   2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-YAML     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JSON     48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other    43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+YAML     1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+JSON     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Other    43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
