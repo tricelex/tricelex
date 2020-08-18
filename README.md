@@ -26,10 +26,10 @@ I am currently on the lookout for opportunities for growth as a person and softw
 
 <!--START_SECTION:waka-->
 ```text
-Python   10 hrs 51 mins  ████████████████░░░░░░░░░   63.75 % 
-Docker   2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-YAML     1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JSON     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Other    43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python           1 hr 31 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 % 
+Blade Template   1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Markdown         43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+JavaScript       42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+TypeScript       39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 <!--END_SECTION:waka-->
