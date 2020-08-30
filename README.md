@@ -26,10 +26,10 @@ I am currently on the lookout for opportunities for growth as a person and softw
 
 <!--START_SECTION:waka-->
 ```text
-Python           3 hrs 37 mins   ██████████████████▒░░░░░░   73.23 % 
-PHP              38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Blade Template   37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-CSV              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python           2 hrs           ███████████████░░░░░░░░░░   60.33 % 
+PHP              38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Blade Template   37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.95 % 
+CSV              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
