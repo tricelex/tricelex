@@ -23,6 +23,7 @@ I am currently on the lookout for opportunities for growth as a person and softw
 
 
 -----
+[![Tricelex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tricelex)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
